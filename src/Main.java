@@ -9,6 +9,6 @@ public class Main {
 
         z=Math.sqrt((x*x)+(y*y));
 
-        JOptionPane.showMessageDialog(null,z);
+        JOptionPane.showMessageDialog(null,"Hypotenuse is "+z);
     }
 }
